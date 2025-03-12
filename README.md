@@ -6,9 +6,10 @@
 
 <div> 
   <a href="https://github.com/asKelvinRamos">
-  <img height="147em" src="https://github-readme-stats.vercel.app/api?username=asKelvinRamos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asKelvinRamos&layout=compact&langs_count=16&theme=dark"/>
+  <img height="147em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asKelvinRamos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=3600"/>
+  <img height="147em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asKelvinRamos&layout=compact&langs_count=16&theme=dark&cache_seconds=3600"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
